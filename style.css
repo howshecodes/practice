@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+  }
+  
+  .countries {
+    /* margin-bottom: 8rem; */
+    display: flex;
+  
+    font-size: 2rem;
+    opacity: 1;
+    transition: opacity 1s;
+  }
